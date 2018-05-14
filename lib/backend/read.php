@@ -1,6 +1,6 @@
 <?php
     require '../../db/banco.php';
-		$id = null;
+    $id = null;
 		
     if(!empty($_GET['id']))
     {
